@@ -10,8 +10,8 @@ around 26 dollars + about 3 dollars shipping
 these were cheapest i could find
 like 5 dollars + shipping
 
-rasberry pi pico 2
-less then 10 dollars + shipping
+rasberry pi pico 2,         https://www.alza.cz/raspberry-pi-pico-2-d12496353.htm
+less then 10 dollars + shipping 
 
 
 all will be 79 dollars + shipping so i fit perfectly to the 100 dollars range

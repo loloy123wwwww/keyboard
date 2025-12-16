@@ -1,4 +1,5 @@
-i also added the excek file which u can find here
+i also added the excel file which u can find here
+
 [https://mechanicalkeyboards.com/products/cherry-mx2a-blue-60g-clicky](https://mechanicalkeyboards.com/products/cherry-mx-blue-60g-clicky?pr_prod_strat=e5_desc&pr_rec_id=101a426a6&pr_rec_pid=9036804620588&pr_ref_pid=9040628351276&pr_seq=uniform)
 70x(since it has to be rounded to closest 10) of these 38 dolars + shipping
 

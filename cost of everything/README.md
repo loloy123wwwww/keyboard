@@ -14,4 +14,4 @@ rasberry pi pico 2,         https://www.alza.cz/raspberry-pi-pico-2-d12496353.ht
 less then 10 dollars + shipping 
 
 
-all will be 79 dollars + shipping so i fit perfectly to the 100 dollars range
+all will be 68 dollars + shipping so i fit perfectly to the 100 dollars range

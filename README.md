@@ -1,23 +1,19 @@
-https://mechanicalkeyboards.com/products/cherry-mx2a-blue-60g-clicky
-65x of these around 35 dolars
+[https://mechanicalkeyboards.com/products/cherry-mx2a-blue-60g-clicky](https://mechanicalkeyboards.com/products/cherry-mx-blue-60g-clicky?pr_prod_strat=e5_desc&pr_rec_id=101a426a6&pr_rec_pid=9036804620588&pr_ref_pid=9040628351276&pr_seq=uniform)
+70x(since it has to be rounded to closest 10) of these 38 dolars + shipping
 
 some keyscaps(depends on which keys il have) will probablly go with these these are in my country and are pretty cheap https://www.smarty.cz/Dark-Project-Arcade-keycaps-4p199914
-wround 25 dollars
+around 26 dollars + about 3 dollars shipping
 
-blue filament(i can use the rest to print other stuff for students which dont have 3d printer)
-20 dollars or 75 points in shop
+1N4148WT  65x,      https://eu.mouser.com/ProductDetail/onsemi/1N4148WT?qs=2%2FYqgE%252BHg%252BJTXBWnIBbu3Q%3D%3D
+these were cheapest i could find
+like 5 dollars + shipping
 
-rasberry pi pico (still depends on what will i use)
-less then 10 dollars
-
-
-
-raw data for https://www.keyboard-layout-editor.com/#/
+rasberry pi pico 2
+less then 10 dollars + shipping
 
 
+all will be 79 dollars + shipping so i fit perfectly to the 100 dollars range
 
-[{a:6,f:6},";","1",{x:-1},"1","2","3","4","5","6","7","8","9","0","=","´ˇ",{f:5,w:2},"backspace"],
-[{f:6,w:1.5},"tap","q","w","e","r","t","z","u","i","o","p","/",")",{x:0.25,f:7,w:1.25,h:2,w2:1.5,h2:1,x2:-0.25},"enter"],
-[{f:6,w:1.75},"caps","a","s","d","f","g","h","j","k","l","\"","!","'"],
-[{w:1.25},"shift","Q","y","x","c","v","b","n","m","?",":","-",{w:2.75},"shift"],
-[{w:1.25},"ctrl",{w:1.25},"win",{w:1.25},"alt",{w:6.25},"spacebar",{w:1.25},"alt",{w:1.25},"win",{w:1.25},"ctrl",{w:1.25},"Q"]
+
+
+

@@ -7,9 +7,9 @@ https://www.mironet.cz/akko-mechanicke-spinace-v3-pro-cream-blue-switches-45-ks-
 some keyscaps will probablly go with these these they are in my country so very cheap shipping and are pretty cheap https://www.smarty.cz/Dark-Project-Arcade-keycaps-4p199914
 around 26 dollars + about 3 dollars shipping
 
-1N4148WT  65x,    https://ecom.cz/eshop/detail/79882
+1N4148WT  65x,   https://www.puhy.cz/1n4148wt-sod523-t-r-1676408.html
 these were cheapest i could find
-like 5 dollars + shipping
+  9 dollars (shipping included)
 
 rasberry pi pico 2,         https://www.alza.cz/raspberry-pi-pico-2-d12496353.htm
 less then 10 dollars + shipping (is about 2 dollars or free if i come pick it up at their stores)

@@ -3,6 +3,7 @@ i also added the excel file which u can find here
 https://www.mironet.cz/akko-mechanicke-spinace-v3-pro-cream-blue-switches-45-ks-taktilni+dp601362/
 2x of these 35 dollars (shipping
  included)
+ 
 some keyscaps will probablly go with these these they are in my country so very cheap shipping and are pretty cheap https://www.smarty.cz/Dark-Project-Arcade-keycaps-4p199914
 around 26 dollars + about 3 dollars shipping
 

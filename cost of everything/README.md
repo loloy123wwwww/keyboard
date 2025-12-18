@@ -14,7 +14,7 @@ like 5 dollars + shipping
 rasberry pi pico 2,         https://www.alza.cz/raspberry-pi-pico-2-d12496353.htm
 less then 10 dollars + shipping (is about 2 dollars or free if i come pick it up at their stores)
 
-forgot to send it but i will need some material to solder woth and optionally some flux
+forgot to send it but i will need some material to solder with and optionally some flux and i alsk forgot stabilizers for few keys
 
 all will be 80 dollars + shipping + material and flux so i fit perfectly to the 100 dollars range
  also i tried to find local stores beacose in the ones in USA the shipping costed more than the actual product

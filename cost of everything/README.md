@@ -1,20 +1,22 @@
 i also added the excel file which u can find here
 
-https://www.mironet.cz/akko-mechanicke-spinace-v3-pro-cream-blue-switches-45-ks-taktilni+dp601362/
-2x of these 39 dollars (shipping
- included)
+https://www.mironet.cz/akko-mechanicke-spinace-v3-pro-matcha-green-switch-45-ks-linearni+dp635898/
+2x of these 34 dollars
  
 some keyscaps will probablly go with these these they are in my country so very cheap shipping and are pretty cheap https://www.smarty.cz/Dark-Project-Arcade-keycaps-4p199914
-around 26 dollars + about 3 dollars shipping
+28 dollars
 
-1N4148WT  65x,   https://www.puhy.cz/1n4148wt-sod523-t-r-1676408.html
+1N4148WT  65x,          https://www.puhy.cz/1n4148wt-sod523-t-r-1676408.html
 these were cheapest i could find
-  9 dollars (shipping included)
+  9 dollars
 
-rasberry pi pico 2,         https://www.alza.cz/raspberry-pi-pico-2-d12496353.htm
-less then 10 dollars + shipping (is about 2 dollars or free if i come pick it up at their stores)
+rasberry pi pico 2,      https://rpishop.cz/554053/raspberry-pi-pico-2-w/
+ 14 dollars
 
-forgot to send it but i will need some material to solder with and optionally some flux and i alsk forgot stabilizers for few keys
+material to solder with    https://www.marmot-shop.cz/p/olovnaty-pajeci-cin-sn60pb40-05mm-mtl468
+8 dollars
 
-all will be 80 dollars + shipping + material and flux so i fit perfectly to the 100 dollars range
- also i tried to find local stores beacose in the ones in USA the shipping costed more than the actual product
+flux paste                 https://allegro.cz/produkt/tavidlo-amtech-nc-559-asm-uv-tpf-10-g-9e2ec22c-dea8-4476-80bb-511cdc3afde2
+10 dollars
+
+also to make the pcb it will cost something 

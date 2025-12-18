@@ -11,3 +11,4 @@ also i added better kicad file inside the kicad folder it uses a better and cust
 
 NOTE FOR REVIEWERS:
 Please tell me all the mistakes i made id love to make it perfect before getting the parts shipped ty😊
+

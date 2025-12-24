@@ -2,11 +2,12 @@ Reference,Qty,Value,Footprint,link to it,price (shipping included)
 A1,1,RaspberryPi_Pico,Module:RaspberryPi_Pico,https://www.alza.cz/raspberry-pi-pico-2-d12496353.htm,14
 D1 to D65,65,1N4148WT,Diode_SMD:D_SOD-523,https://www.puhy.cz/1n4148wt-sod523-t-r-1676408.html,9
 SW1 to SW 65,65,SW_Push_45deg,Button_Switch_Keyboard:SW_Cherry_MX_1.00u_PCB,https://www.mironet.cz/akko-mechanicke-spinace-v3-pro-matcha-green-switch-45-ks-linearni+dp635898/,34
-keycaps,65,keycaps,none,https://www.smarty.cz/Dark-Project-Arcade-keycaps-4p199914 or 3D printed https://makerworld.com/en/models/1055490-mx-cherry-keycaps-full-set,28 or free
+keycaps,65,keycaps,none,https://makerworld.com/en/models/1055490-mx-cherry-keycaps-full-set,free
 material to solder with,1,sn60pb40-05mm,none,https://www.marmot-shop.cz/p/olovnaty-pajeci-cin-sn60pb40-05mm-mtl468,8
 Flux paste,1,flux paste,none,https://allegro.cz/produkt/tavidlo-amtech-nc-559-asm-uv-tpf-10-g-9e2ec22c-dea8-4476-80bb-511cdc3afde2,10
 PCB,1,PCB,none,https://jlcpcb.com/,50
 ,,,,,please tell me how to make it cheaper all of these are the cheapest option
+
 
 
 

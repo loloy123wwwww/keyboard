@@ -8,7 +8,7 @@ also i added better kicad file inside the kicad folder it uses a better and cust
 
 Setup(if u wanna download and make ur own keyboard: 
 
-Download Keyboard .zip file (https://github.com/loloy123wwwww/keyboard/blob/main/FILES/KiCad/keyboard.zip) or download KiCad file if u want to make changes 
+Download Keyboard .zip file (https://github.com/loloy123wwwww/keyboard/blob/main/FILES/KiCad/keyboard.zip) or download KiCad file if u want to make changes, 
 put the ready .zip file to jlpcb or any pcb manufacturer. 
 
 buy all these: 

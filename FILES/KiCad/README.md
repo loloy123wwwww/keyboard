@@ -1,4 +1,12 @@
-here u will find all of the kicad files and files will be here(scroll down there are more)
+here u will find all of the kicad files and pictures will be here(scroll down there are more)
+
+Explanation of each file
+KiCad new: uses new rp pico library so its more accurate
+
+KiCad old: uses basic library for rp pico mainly used if u wanna see the project(should work same but the new is more accurate)
+
+Keyboard:   its a ready to use pcb design all packed in .zip file so it is avalible to put this file into PCB manufacturer, basiclly ready to use
+
 
 heres the picture of the schematic:
 

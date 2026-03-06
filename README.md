@@ -1,31 +1,52 @@
 HI heres everything u need to know to find anything.
+
 So in FILES there are files all KiCad and 3D.
 
 Each category has its own README.md where u can find the pictures and info.
 
-In COST of everything u can find the .bom file and all the things il need in the README.md
+COST of everything
 
-PICTURES(the file) arent important since i put all of the pictures in each category.
+In COST of everything u can find the .bom file and all the things il need in the README.md.
 
-also i added better kicad file inside the kicad folder it uses a better and custom pi pico library
+PICTURES
 
-Setup(if u wanna download and make ur own keyboard:
+PICTURES (the file) arent important since i put all of the pictures in each category.
 
-Download Keyboard .zip file (https://github.com/loloy123wwwww/keyboard/blob/main/FILES/KiCad/keyboard.zip)  or download KiCad file if u want to make changes
+KiCad
+
+also i added better kicad file inside the kicad folder
+it uses a better and custom pi pico library
+
+Setup (if u wanna download and make ur own keyboard)
+
+Download Keyboard .zip file
+https://github.com/loloy123wwwww/keyboard/blob/main/FILES/KiCad/keyboard.zip
+
+or download KiCad file if u want to make changes
+
 put the ready .zip file to jlpcb or any pcb manufacturer.
+
 buy all these:
+
 Diode 65x
+
 any mx cherry switches 65x
+
 Keycaps for full keyboard or 3D print them
+
 RP pico 2
+
 buy some material to solder with
 
 essentinals:
-soldering iron, 3D printer(or ask in slack for someone to 3D print for you)
 
+soldering iron
 
+3D printer (or ask in slack for someone to 3D print for you)
 
-DOWN HERE I ADDED ALL THE PICTURES BUT THEY ARE IN EACH CATEGORY
+DOWN HERE I ADDED ALL THE PICTURES
+
+but they are in each category
 
 
 <img width="1432" height="518" alt="image" src="https://github.com/user-attachments/assets/008a93bd-f657-4ba9-9572-e6f905e30062" />

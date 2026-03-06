@@ -9,12 +9,23 @@ PICTURES(the file) arent important since i put all of the pictures in each categ
 
 also i added better kicad file inside the kicad folder it uses a better and custom pi pico library
 
-NOTE FOR REVIEWERS:
-Please tell me all the mistakes i made id love to make it perfect before getting the parts shipped ty😊
+Setup(if u wanna download and make ur own keyboard:
+
+Download Keyboard .zip file (https://github.com/loloy123wwwww/keyboard/blob/main/FILES/KiCad/keyboard.zip)  or download KiCad file if u want to make changes
+put the ready .zip file to jlpcb or any pcb manufacturer.
+buy all these:
+Diode 65x
+any mx cherry switches 65x
+Keycaps for full keyboard or 3D print them
+RP pico 2
+buy some material to solder with
+
+essentinals:
+soldering iron, 3D printer(or ask in slack for someone to 3D print for you)
+
+
 
 DOWN HERE I ADDED ALL THE PICTURES BUT THEY ARE IN EACH CATEGORY
-
-
 
 
 <img width="1432" height="518" alt="image" src="https://github.com/user-attachments/assets/008a93bd-f657-4ba9-9572-e6f905e30062" />
